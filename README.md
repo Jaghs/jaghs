@@ -4,7 +4,7 @@ I'm a Data Scientist infused with an Accounting background. I have a strong foun
 
 Currently interested in data cleaning, creating visualizations, and machine learning 😄
 
-Feel free to check out my personal website (to get a general vibe of me!) at [jagvir.me](https://jagvir.me/) :)
+Feel free to check out my personal website at [jagvir.me](https://jagvir.me/) :)
 
 [LinkedIn](https://www.linkedin.com/in/jagvirdhesi/) | [Medium](https://medium.com/@jagvir) | [Instagram](https://www.instagram.com/jaghs/)
 
