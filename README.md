@@ -2,6 +2,9 @@
 
 <p h4 align="justify"> I am a Data Scientist infused with an Accounting background. I have a strong foundation in financial management and reporting, combined with the ability to analyze and interpret complex data sets. As an individual, I am determined and detail-oriented, always eager to learn new tools and techniques, and dedicated to perfecting my existing skills. </h4> </p>
 
+Feel free to check out my personal website at [jagvir.me](https://jagvir.me/) :)
+
+[LinkedIn](https://www.linkedin.com/in/jagvirdhesi/) | [Medium](https://medium.com/@jagvir) | [Instagram](https://www.instagram.com/jaghs/)
 <!--
 **Jaghs/jaghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
