@@ -2,7 +2,7 @@
 
 I'm a Data Scientist infused with an Accounting background. I have a strong foundation in financial management and reporting, combined with the ability to analyze and interpret complex data sets. As an individual, I am determined and detail-oriented, always eager to learn new tools and techniques, and dedicated to perfecting my existing skills. </h4> </p>
 
-Currently interested in data analysis, creating visualizations, and machine learning 😄
+Currently interested in data analysis, creating visualizations, and machine learning 💡
 
 Feel free to check out my personal website at [jagvir.me](https://jagvir.me/) :)
 
