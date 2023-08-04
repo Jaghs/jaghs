@@ -1,6 +1,6 @@
 ### Hi, I'm Jagvir  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25">
 
-I'm a Data Scientist infused with an Accounting background. I have a strong foundation in financial management and reporting, combined with the ability to analyze and interpret complex data sets. As an individual, I am determined and detail-oriented, always eager to learn new tools and techniques, and dedicated to perfecting my existing skills. </h4> </p>
+I'm a Data Analyst infused with an Accounting background. I have a strong foundation in financial management and reporting, combined with the ability to analyze and interpret complex data sets. As an individual, I am determined and detail-oriented, always eager to learn new tools and techniques, and dedicated to perfecting my existing skills. </h4> </p>
 
 Currently interested in data analysis, creating visualizations, and machine learning 💡
 
